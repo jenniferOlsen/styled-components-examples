@@ -35,7 +35,7 @@ const ToggleCheckbox = styled.input.attrs({
     font-size: 12px;
   }
   &:checked {
-    background-color: ${colors.nSolidGreen};
+    background-color: ${colors.green};
   }
   &:checked:before {
     left: 35px;
